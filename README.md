@@ -1,7 +1,9 @@
 ### Hiya! 👋
 
 I'm a third year Mathematics student at the University of Groningen, interested in programming with specific uses in numerical mathematics, robotics and data science. 
-🌱 I’m currently learning C++ and Haskell.
+I have experience using Python, R, Haskell and C++.
+
+🌱 I’m currently furthering my knowledge in C++.
 <!--
 **egerhether/egerhether** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
