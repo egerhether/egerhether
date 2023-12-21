@@ -1,7 +1,7 @@
 ### Hiya! 👋
 
 I'm a third year Mathematics student at the University of Groningen, interested in programming with specific uses in numerical mathematics, robotics and data science. 
-I have experience using Python, R, Haskell and C++.
+I have experience using Python, R, Haskell, C++ and ROS.
 
 🌱 I’m currently furthering my knowledge in C++.
 <!--
