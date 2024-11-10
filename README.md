@@ -1,9 +1,14 @@
 ### Hiya! 👋
 
-I'm a third year Mathematics student at the University of Groningen, interested in programming with specific uses in numerical mathematics, robotics and data science. 
-I have experience using Python, C++, C, Haskell, ROS and R.
+I'm an Artificial Intelligence Master's student at the University of Amsterdam, interested in programming with specific uses in numerical mathematics, robotics and deep learning. 
+I have experience using Python, C++, C, Java, Haskell, ROS and R.
 
-🌱 I’m currently learning Java.
+🔭 I’m currently working on a music genre recognition software using deep learning.
+
+Education background:
+- BSc Mathematics, University of Groningen
+
+
 <!--
 **egerhether/egerhether** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
