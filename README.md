@@ -9,7 +9,7 @@ Education background:
 - BSc Mathematics, University of Groningen
 
 
-[![Top Langs](https://github-readme-stats-lime-two-44.vercel.app/api/top-langs/?username=egerhether&layout=compact&hide=tex,makefile&langs_count=7&theme=transparent&hide_border=true)](https://github.com/egerhether/github-readme-stats)
+[![Top Langs](https://github-readme-stats-lime-two-44.vercel.app/api/top-langs/?username=egerhether&layout=compact&hide=tex,makefile&langs_count=7&theme=transparent&hide_border=false)](https://github.com/egerhether/github-readme-stats)
 
 
 <!--
