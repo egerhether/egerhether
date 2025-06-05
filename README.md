@@ -13,4 +13,4 @@ Education background:
 
 Publications:
 
-[![Readme Card](https://github-readme-stats-lime-two-44.vercel.app/api/pin/?username=aerdelez&repo=re-fvit&theme=transparent&hide_border=true)](https://github.com/egerhether/github-readme-stats)
+[![Readme Card](https://github-readme-stats-lime-two-44.vercel.app/api/pin/?username=aerdelez&repo=re-fvit&theme=transparent)](https://github.com/aerdelez/re-fvit)
