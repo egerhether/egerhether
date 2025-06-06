@@ -3,8 +3,6 @@
 I'm an Artificial Intelligence Master's student at the University of Amsterdam, interested in programming with specific uses in numerical mathematics, robotics and deep learning. 
 I have experience using Python, C++, C, Java, Haskell, ROS and R.
 
-🔭 I’m currently working on a NYT Connections solver.
-
 Education background:
 - BSc Mathematics, University of Groningen
 
