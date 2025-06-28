@@ -7,9 +7,8 @@ Education background:
 - BSc Mathematics, University of Groningen
 - MSc Artificial Intelligence, University of Amsterdam (ongoing)
 
-
-[![Top Langs](github-readme-stats-izabela-kureks-projects.vercel.app/api/top-langs/?username=egerhether&layout=compact&hide=tex,makefile&langs_count=8&theme=transparent&hide_border=true)](https://github.com/egerhether/github-readme-stats)
+[![Top Langs](https://github-readme-stats-lime-two-44.vercel.app/api/top-langs/?username=egerhether&layout=compact&hide=tex,makefile&langs_count=8&theme=transparent&hide_border=true)](https://github.com/egerhether/github-readme-stats)
 
 Publications:
 
-[![Readme Card](github-readme-stats-izabela-kureks-projects.vercel.app/api/pin/?username=aerdelez&repo=re-fvit&theme=transparent)](https://github.com/aerdelez/re-fvit)
+[![Readme Card](https://github-readme-stats-lime-two-44.vercel.app/api/pin/?username=aerdelez&repo=re-fvit&theme=transparent)](https://github.com/aerdelez/re-fvit)
